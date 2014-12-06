@@ -1,8 +1,6 @@
 # coding: utf-8
 """
-Sublime Text Plugin opening GIT source code in a browser.
-
-Supports Bitbucket and GitHub
+Sublime Text Plugin opening GIT source code in a browser
 """
 
 __all__ = ['BrowseGitCommand']
