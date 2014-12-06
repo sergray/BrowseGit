@@ -1,0 +1,3 @@
+[
+	{ "keys": ["super+option+g"], "command": "browse_git" },
+]
